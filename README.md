@@ -151,3 +151,7 @@ GET /megacorp/_search
 ## 其他来源文档
 
 [p-dai，ElasticSearch知识体系详解](https://pdai.tech/md/db/nosql-es/elasticsearch.html)
+
+[使用 Spring Boot 创建 Elasticsearch API Client(8.0.1) 对象时出错](https://discuss.elastic.co/t/error-while-creating-elasticsearch-api-client-8-0-1-object-using-spring-boot/300263)
+
+[【ElasticSearch8】SpringBoot集成ElasticSearch8.x 基本应用](https://blog.csdn.net/yscjhghngh/article/details/123620860)
